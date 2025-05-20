@@ -1,0 +1,130 @@
+[
+  {
+    "guid": "",
+    "recipeId": "",
+    "imageId": "",
+    "category": "Tacos",
+    "name": "Pescado",
+    "costCents": 5500
+  },
+  {
+    "guid": "",
+    "recipeId": "",
+    "imageId": "",
+    "category": "tacos",
+    "name": "Camaron",
+    "costCents": 5800
+  },
+  {
+    "guid": "",
+    "recipeId": "",
+    "imageId": "",
+    "category": "tacos",
+    "name": "Marlin",
+    "costCents": 5500
+  },
+  {
+    "guid": "",
+    "recipeId": "",
+    "imageId": "",
+    "category": "tacos",
+    "name": "Campechano",
+    "costCents": 5800
+  },
+  {
+    "guid": "",
+    "recipeId": "",
+    "imageId": "",
+    "category": "tacos",
+    "name": "Tacochango",
+    "costCents": 5800
+  },
+  {
+    "guid": "",
+    "recipeId": "",
+    "imageId": "",
+    "category": "tacos",
+    "name": "Tacotote",
+    "costCents": 6300
+  },
+  {
+    "guid": "",
+    "recipeId": "",
+    "imageId": "",
+    "category": "tacos",
+    "name": "Quesotote",
+    "costCents": 6300
+  },
+  {
+    "guid": "",
+    "recipeId": "",
+    "imageId": "",
+    "category": "bebidas",
+    "name": "Soda",
+    "costCents": 2500
+  },
+  {
+    "guid": "",
+    "recipeId": "",
+    "imageId": "",
+    "category": "bebidas",
+    "name": "Agua de Sabor",
+    "costCents": 2200
+  },
+  {
+    "guid": "",
+    "recipeId": "",
+    "imageId": "",
+    "category": "bebidas",
+    "name": "Jugo",
+    "costCents": 2300
+  },
+  {
+    "guid": "",
+    "recipeId": "",
+    "imageId": "",
+    "category": "bebidas",
+    "name": "Aguan Natural",
+    "costCents": 1800
+  },
+  {
+    "guid": "",
+    "recipeId": "",
+    "imageId": "",
+    "category": "extras",
+    "name": "Tortilla",
+    "costCents": 600
+  },
+  {
+    "guid": "",
+    "recipeId": "",
+    "imageId": "",
+    "category": "extras",
+    "name": "Camaron",
+    "costCents": 1500
+  },
+  {
+    "guid": "",
+    "recipeId": "",
+    "imageId": "",
+    "category": "extras",
+    "name": "Pescado",
+    "costCents": 1500
+  },
+  {
+    "guid": "",
+    "recipeId": "",
+    "imageId": "",
+    "category": "extras",
+    "name": "Marlin",
+    "costCents": 1500
+  },
+  {
+    "guid": "",
+    "recipeId": "",
+    "imageId": "",
+    "category": "extras",
+    "name": "Chile",
+    "costCents": 1800
+  }
+]
